@@ -1,0 +1,14 @@
+/**
+ * #.# Editor Styles
+ *
+ * CSS for just Backend enqueued after style.scss
+ * which makes it higher in priority.
+ */
+
+.wp-block-cgb-block-cheatsheets  {
+  background: $green;
+  border: 0 solid $black;
+  margin: 0 auto;
+  max-width: 300px;
+  padding: 1em;
+}
